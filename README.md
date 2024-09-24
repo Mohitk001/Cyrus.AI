@@ -58,7 +58,11 @@ To run **Angel.AI**, follow these steps:
   - "Open Google and search [your query]"
   - "What's the weather in [city]?"
   - "Take a screenshot."
-  - "Play a song."
+  - "Take photo"
+  - "Open notepad and write"
+  - "Who is [your query]"
+  - Whats the time
+  - Random greetings
 
 ## License
 
