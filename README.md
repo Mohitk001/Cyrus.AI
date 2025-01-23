@@ -1,11 +1,9 @@
-
 ---
 ![](https://github.com/user-attachments/assets/8d44f424-db88-4fed-81e4-c68d39b84807)
 
+# Cyrus.AI
 
-# Angel.AI
-
-**Angel.AI** is a voice-activated virtual assistant built in Python, designed to simplify tasks and enhance productivity through natural voice interactions. 
+**Cyrus.AI** is a voice-activated virtual assistant built in Python, designed to simplify tasks and enhance productivity through natural voice interactions.
 
 ## Features
 
@@ -28,12 +26,12 @@
 
 ## Installation
 
-To run **Angel.AI**, follow these steps:
+To run **Cyrus.AI**, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/angel-ai.git
-   cd angel-ai
+   git clone https://github.com/yourusername/cyrus-ai.git
+   cd cyrus-ai
    ```
 
 2. **Install Required Packages**
@@ -61,7 +59,7 @@ To run **Angel.AI**, follow these steps:
   - "Take photo"
   - "Open notepad and write"
   - "Who is [your query]"
-  - Whats the time
+  - "What's the time"
   - Random greetings
 
 ## License
@@ -73,3 +71,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the creators of the libraries and APIs used in this project.
 
 ---
+
