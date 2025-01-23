@@ -1,5 +1,3 @@
----
-
 # Cyrus.AI
 
 **Cyrus.AI** is a voice-activated virtual assistant built in Python, designed to simplify tasks and enhance productivity through natural voice interactions.
@@ -28,6 +26,7 @@
 To run **Cyrus.AI**, follow these steps:
 
 1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/yourusername/cyrus-ai.git
    cd cyrus-ai
@@ -35,6 +34,7 @@ To run **Cyrus.AI**, follow these steps:
 
 2. **Install Required Packages**
    Ensure you have Python installed. You can install the required packages using pip:
+
    ```bash
    pip install SpeechRecognition pyttsx3 wikipedia requests opencv-python pyautogui
    ```
@@ -44,6 +44,7 @@ To run **Cyrus.AI**, follow these steps:
 
 4. **Run the Application**
    Execute the following command in your terminal or IDE:
+
    ```bash
    python main.py
    ```
@@ -68,6 +69,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - Special thanks to the creators of the libraries and APIs used in this project.
-
----
 
