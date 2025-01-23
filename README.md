@@ -1,5 +1,4 @@
 ---
-![](https://github.com/user-attachments/assets/8d44f424-db88-4fed-81e4-c68d39b84807)
 
 # Cyrus.AI
 
