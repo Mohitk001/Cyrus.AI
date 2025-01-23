@@ -53,7 +53,7 @@ def wishMe():
     else:
         greet = random.choice(evening_greetings)
         speak(greet)
-    speak("Hi, I am Angel")
+    speak("Hi, I am Cyrus")
     intro = [
         "I'm here to assist you with whatever you need.",
         "Your personal assistant, at your service!",
